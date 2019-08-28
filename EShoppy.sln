@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EShoppy", "EShoppy\EShoppy.csproj", "{A243AD82-D874-45F1-B88B-FF0A430B5132}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EShoppyDAL", "EShoppyDAL\EShoppyDAL.csproj", "{46DE4A67-F13E-4F3F-9A63-41308B4F6737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A243AD82-D874-45F1-B88B-FF0A430B5132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A243AD82-D874-45F1-B88B-FF0A430B5132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A243AD82-D874-45F1-B88B-FF0A430B5132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A243AD82-D874-45F1-B88B-FF0A430B5132}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46DE4A67-F13E-4F3F-9A63-41308B4F6737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46DE4A67-F13E-4F3F-9A63-41308B4F6737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46DE4A67-F13E-4F3F-9A63-41308B4F6737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46DE4A67-F13E-4F3F-9A63-41308B4F6737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {431FBCBB-65AC-42B7-A6B8-7221DDF0CB2A}
+	EndGlobalSection
+EndGlobal
